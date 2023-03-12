@@ -19,4 +19,11 @@ Once Text is available for use, simply open a command line interface and run the
 
 ## Contributing
 
-If you would like to contribute to the development of Text, please stay tuned for updates on how to get involved.
+Contributions to Text are welcome, even in this early stage of development. If you have ideas or suggestions for the app, feel free to share them by opening an issue in the repository.
+
+If you would like to contribute code to the project, please stay tuned for updates on how to get involved.
+
+
+## License
+
+Text is released under the MIT License. See `LICENSE` for more information.
